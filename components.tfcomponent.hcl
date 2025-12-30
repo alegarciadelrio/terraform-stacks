@@ -1,5 +1,5 @@
 component "website" {
-  source = "website"
+  source = "./website"
   
   inputs = {
     aws_region  = var.aws_region
